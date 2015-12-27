@@ -40,4 +40,4 @@ cacheSolve <- function(x, ...) {
   i
 }
 
-## Source used: http://xmuxiaomo.github.io/
+## Sources used: Peng, Assignment 2; http://xmuxiaomo.github.io/.
